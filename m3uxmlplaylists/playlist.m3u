@@ -1,0 +1,461 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/1_1.png", 1+1
+http://50.7.127.60:8081/1pl1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg9669233d12470a5b3c6a78b9d96f2568T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/112_kanal.png", 112 канал
+https://www.youtube.com/watch?v=3Q11d6I21PE&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/1hd.png", 1HD
+https://cdn-01.bonus-tv.ru:8090/1HDmusic/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/2plus2.png", 2+2
+http://50.7.127.60:8081/2pl2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge51265ac3b6758b0b0f88d5ffa4d0868T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/24doc.png", 24 Док
+http://50.7.136.50:8081/24doc/index.m3u8?wmsAuthSign=07692aafe65ada5cceaf4e23847bfea6-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/24tehno.png", 24 Техно
+http://50.7.136.50:8081/24techno/index.m3u8?wmsAuthSign=7a6f9276bd6e1f4ee046efc77e0020fc-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/24_ukr.png", 24 Украина
+https://www.youtube.com/watch?v=58pRPvbgnro&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/2x2.png", 2х2
+http://50.7.144.75:8081/2x2/index.m3u8?wmsAuthSign=84bd4f5e2fa7340d884fb9d312a9c2da-1543738579-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/360grad.png", 360 градусов
+http://50.7.144.75:8081/360gra/index.m3u8?wmsAuthSign=cd05c597dbc211de918069753355233e-1543738579-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/365dney.png", 365 Дней
+http://50.7.144.75:8081/365_dney/index.m3u8?wmsAuthSign=f3eff6288e5e39f5b72f2c3b1bf91815-1543738579-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fan-tv.ru/images/5kanal.png", 5 канал
+http://50.7.136.50:8081/5kanal/index.m3u8?wmsAuthSign=49e094f8f5774d6959ff436b14ddf59d-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/5_ukr.png", 5 канал Украина
+https://www.youtube.com/watch?v=J3rkqJrSoZU&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fan-tv.ru/images/8kanal.png", 8 канал
+http://50.7.136.50:8081/8_kanal/index.m3u8?wmsAuthSign=1b811f7f493bd8ba002a6c20db2ca0ab-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only-tv.org/images/9-kanal-izrail.png", 9 канал Израиль
+http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=6406f1e3f1a8e1fb7f95f945e9b55f5b-1543738580-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/amedia1.png", A1
+http://50.7.136.50:8081/amedia_1/index.m3u8?wmsAuthSign=2543b2e064ad5e6097cbc75d6c71956d-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/amedia2.png", A2
+http://50.7.136.50:8081/amedia_2/index.m3u8?wmsAuthSign=f4be55c8b6666bf6b4c7fdfd222d0244-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/amc.png", AMC
+http://50.7.136.50:8081/amc/index.m3u8?wmsAuthSign=4fcb3426f0108dfc592c2ae6ce62b4f8-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/amedia-hit.png", Amedia Hit
+http://50.7.180.50:8081/amediahit/index.m3u8?wmsAuthSign=aeae40e8d61a9daeb9b7dc19af8762e0-1543738580-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/amediapr.png", Amedia Premium HD
+http://50.7.136.50:8081/amedia_pre/index.m3u8?wmsAuthSign=89621e5d40c2abed52d733300c9617e6-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://fan-tv.ru/images/ani.png", Ani
+http://50.7.136.50:8081/ani/index.m3u8?wmsAuthSign=42b6b1c76cac93d9f783c0ab592d433a-1543727775-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/bbcnews.png", BBC News
+http://50.7.144.75:8081/bbc/index.m3u8?wmsAuthSign=821f067de76585cb036afa59bd0a94a3-1543738580-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/bloomberg.png", Bloomberg
+http://50.7.180.50:8081/bloomberg/index.m3u8?wmsAuthSign=9c0cdb11190c0edfa22d4f314f3c4649-1543738580-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/bollywood.png", Bollywood
+http://50.7.180.50:8081/bollywood/index.m3u8?wmsAuthSign=b6fbcc8295dba6432ebd4dea1013e7ac-1543738580-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/cnn.png", CNN
+http://50.7.144.75:8081/cnn/index.m3u8?wmsAuthSign=3bc4b25fd8115e09d022fef7d7ae70c9-1543738580-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://fan-tv.ru/images/DANGE_TV.png", Dange TV
+http://50.7.136.50:8081/dange/index.m3u8?wmsAuthSign=a9cfba434c708829363fcce941082787-1543727776-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/Disney.png", Disney
+http://50.7.180.50:8081/disney/index.m3u8?wmsAuthSign=477928d7da6a4d6041b7510d60907197-1543738580-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/EuroNews.png", EuroNews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://fan-tv.ru/images/extremesport.png", Extreme Sports
+http://50.7.136.50:8081/ext_sport/index.m3u8?wmsAuthSign=5f7ea1e13a79eec02d94ef16f432eb9e-1543727776-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/fineliving.png", Fine Living
+http://50.7.136.50:8081/fine_living/index.m3u8?wmsAuthSign=0f9ea73e204d987d701b5068f0043502-1543727776-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/fox.png", FOX
+http://50.7.136.50:8081/fox/index.m3u8?wmsAuthSign=7e88d7cf2188cb80296bd3c73e93d08b-1543727776-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/foxlife.png", Fox Life
+http://50.7.136.50:8081/fox_l/index.m3u8?wmsAuthSign=6b9dc5cdc5ba6010e6900c7904acef44-1543727776-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/galaxy.png", Galaxy TV
+http://50.7.136.50:8081/galaxy/index.m3u8?wmsAuthSign=72094851c1657f58a634fd7ca4a22947-1543727776-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/gulli.png", Gulli
+http://50.7.144.75:8081/gulli/index.m3u8?wmsAuthSign=e0cf122a3e252723acd339b217c412de-1543738581-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/hardlife-tv.png", HardLife TV
+http://50.7.144.75:8081/hardlife/index.m3u8?wmsAuthSign=5e227ae0e86dbb8ff7ad9d7a5fc1f6d5-1543738581-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/hdlifee.png", HD Life
+http://50.7.136.50:8081/hdlife/index.m3u8?wmsAuthSign=3acc264bae55220c2e65dad5591817f3-1543727777-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/history-onlayn.png", History
+http://50.7.136.50:8081/history/index.m3u8?wmsAuthSign=cccbef20ce708ea018c0eda016a9503b-1543727777-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/ICTV.png", ICTV
+http://50.7.180.50:8081/112/index.m3u8?wmsAuthSign=4201863804af78c0f08308ff36771b9f-1543738581-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/jimjam.png", JimJam
+http://50.7.180.50:8081/jimjam/index.m3u8?wmsAuthSign=0c5699f81bb37e76df419529186d0abd-1543738581-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/lale.png", Lale
+http://50.7.144.75:8081/lale/index.m3u8?wmsAuthSign=697c7da0626a633ceb24f4c3a738d3ff-1543738581-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/mezzo.png", Mezzo
+http://50.7.144.75:8081/mezzo/index.m3u8?wmsAuthSign=06d725ba3ea7cbb65b6151fa8cce55b3-1543738581-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/mgm.png", MGM
+http://50.7.136.50:8081/mgm/index.m3u8?wmsAuthSign=0f4808f53232d70bfce9b7da76c5215e-1543727777-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://fan-tv.ru/images/mtv.png", MTV Россия
+http://50.7.136.50:8081/mtv_rys/index.m3u8?wmsAuthSign=351fcd5f71a9f50e2f89c9b11fb47676-1543727777-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://fan-tv.ru/images/musicbox.png", Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/nat-geo-wild.png", NAT GEO WILD
+http://50.7.136.50:8081/natgeowild/index.m3u8?wmsAuthSign=dba1615a899b4067a6abe8e07097c57f-1543727777-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/natgeo.png", National Geographic
+http://50.7.144.75:8081/nat_geogra/index.m3u8?wmsAuthSign=2371a9b5d7b8472433733ff4b0007ba2-1543738582-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/newsone.png", News One
+https://www.youtube.com/watch?v=3e0FsU1N6OQ&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Детские" tvg-logo="http://fan-tv.ru/images/nicjr.png", Nick Jr
+http://50.7.136.50:8081/nickjr/index.m3u8?wmsAuthSign=34fcb2edac5fd2f5a8c1301deb61d032-1543727777-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/nick.png", Nickelodeon
+http://50.7.180.50:8081/nickelodeon/index.m3u8?wmsAuthSign=2f8c1c0ea7a6b2bb51475c19e0e1539e-1543738582-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fan-tv.ru/images/outdoor.png", Outdoor Channel
+http://50.7.136.50:8081/outdoor/index.m3u8?wmsAuthSign=9c117a1c507c231aa676fbd64946b62f-1543727778-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/paramount-channel.png", Paramount Channel
+http://50.7.136.50:8081/param_chanel/index.m3u8?wmsAuthSign=e679091f4a1e91270c1e0b093134f7f6-1543727778-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/paramaund.png", Paramount Comedy
+http://50.7.180.50:8081/paramount/index.m3u8?wmsAuthSign=275652c8028d0a54d0ea828bdf10a911-1543738582-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fan-tv.ru/images/rtg.png", RTG
+http://50.7.136.50:8081/rtg/index.m3u8?wmsAuthSign=19821e83c453a1ff33ba97e4522df1d0-1543727778-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/rutv.png", RU TV
+http://50.7.144.75:8081/ru_tv/index.m3u8?wmsAuthSign=e4acbfa0b63b2b6985d4368f36741115-1543738582-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/rustoday.png", Russia Today
+http://50.7.144.75:8081/russia_today/index.m3u8?wmsAuthSign=39f87dcc9c02e7839a8e8435e726c340-1543738582-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/rumusicbox.png", Russian Music Box
+http://50.7.144.75:8081/musicbox/index.m3u8?wmsAuthSign=5ea34618db9ea3ebc0fdf8b52e41d488-1543738582-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/set.png", SET
+http://50.7.180.50:8081/set/index.m3u8?wmsAuthSign=adbbe60a14eb16d1599a07cad697c153-1543738582-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/set.png", SET (Sony TV)
+http://50.7.136.50:8081/set/index.m3u8?wmsAuthSign=7536e8931ed6c1a93dbcefa73f8a200d-1543727778-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/setanta-sports-plus.png", Setanta Sports Plus
+http://50.7.127.60:8081/setanta_pl/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggb2e6ded725fa61e0cdefefa685313e00T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/sonysci.png", Sony Sci-Fi
+http://50.7.136.50:8081/sony_sci_fi/index.m3u8?wmsAuthSign=0de60289998b0f7fbe1a93963c9b9a43-1543727778-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/SONY_TURBO_LOGO.png", Sony Turbo
+http://50.7.136.50:8081/sony_turbo/index.m3u8?wmsAuthSign=06c59920a87e2af298be7a01aaaaa5a6-1543727778-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/spike.png", Spike
+http://50.7.144.75:8081/spike/index.m3u8?wmsAuthSign=20136e714822b89829c62b94bfcd72d5-1543738583-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://fan-tv.ru/images/tiji.png", TiJi
+http://50.7.136.50:8081/tiji/index.m3u8?wmsAuthSign=947ee5d89d69a301a0a55dcec730756a-1543727778-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/travadv.png", Travel and Adventure
+http://50.7.144.75:8081/travel_adventure/index.m3u8?wmsAuthSign=89c926f13de50ec8cd030b0c0c16127b-1543738583-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/travel-channel.png", Travel Channel
+http://50.7.144.75:8081/travel/index.m3u8?wmsAuthSign=bf3d57650fe921e4c4a5233f970191f4-1543738583-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/travel.png", Travel+Adventure
+http://50.7.136.50:8081/travel_adventure/index.m3u8?wmsAuthSign=38dbc25bbb4dcc1090217afac37d76ee-1543727779-731i342i491i58
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only-tv.org/images/TV_XXI.png", TV 21
+http://50.7.180.50:8081/tv21/index.m3u8?wmsAuthSign=98e241d59001d50d753058ba50ead2ec-1543738583-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/uaper.png", UA Первый
+http://50.7.144.75:8081/per_nac/index.m3u8?wmsAuthSign=d7dab0e0d867e9e307cbcf72734f5287-1543738583-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://fan-tv.ru/images/1461317275_vh1-europe.png", VH1
+http://50.7.136.50:8081/vh1/index.m3u8?wmsAuthSign=acf674432a40c1be20df6da5f38c4379-1543727779-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/viasat_ex.png", Viasat Explorer
+http://50.7.127.60:8081/vi_explorer/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggb5fd1733483624a87bb1601612e12458T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/vihist.png", Viasat History
+http://50.7.127.60:8081/vi_history/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg87780e06a3c27e469382e9b6a69de3dfT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/viasat-hockey.png", Viasat Hockey
+http://50.7.127.60:8081/vi_sport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggba1a52a00e386d09b687b464393dff4aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/viasat_nat.png", Viasat Nature
+http://50.7.127.60:8081/vi_nature/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggd51a0fc7f66e537a5636fcf738793e90T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/world-fashion.png", World Fashion
+http://cdn-01.bonus-tv.ru/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/xsport.png", XSport
+http://50.7.127.60:8081/xsport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg30f504d253fbec0a2d40e0ab5826141aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/zeetv.png", Zee TV
+http://50.7.136.50:8081/zee_tv/index.m3u8?wmsAuthSign=91e1840ecfd999301125b19d1bd78d37-1543727779-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/zik.png", ZIK
+https://www.youtube.com/watch?v=85TulO9YNAY&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/zoom.png", Zoom
+http://50.7.180.50:8081/zoom/index.m3u8?wmsAuthSign=2698fc1407795364d6d838c1e8241d25-1543738584-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fan-tv.ru/images/auto24.png", Авто 24
+http://50.7.136.50:8081/avto24/index.m3u8?wmsAuthSign=90b3b414faa8b35e3d81fab8d0a0c1b2-1543727779-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fan-tv.ru/images/avtoplus.png", Авто плюс
+http://50.7.136.50:8081/avtoplus/index.m3u8?wmsAuthSign=27bf686eb55b853b60d7bb407f447ce4-1543727779-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/bel5.png", Беларусь 5
+http://50.7.127.60:8081/belarus5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg783d4fcdd7448948ed400aefd662ab61T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/bigudi.png", Бигуди
+http://50.7.127.60:8081/bigydi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0713c9312cf9e0978b95c401e007cf21T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/bober.png", Бобер
+http://50.7.136.50:8081/bober/index.m3u8?wmsAuthSign=9c3a97ee4cdd9c529914528fb865540e-1543727780-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/bober-tv.png", Бобер ТВ
+http://50.7.180.50:8081/bober/index.m3u8?wmsAuthSign=33d71278615dee9c0586b3692fe9280d-1543738584-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fan-tv.ru/images/boks-tv.png", Бокс тв
+http://50.7.127.60:8081/box/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg35fcd0660717cdd6173b5f102b1a8d0cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://fan-tv.ru/images/bridge_tv.png", Бридж ТВ
+http://50.7.136.50:8081/bridge/index.m3u8?wmsAuthSign=832b0febbb3524a7cc39cc3378e0319f-1543727780-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/radio/radio-vesti-fm.png", Вести ФМ
+https://www.youtube.com/watch?v=F7hp6dyN-eg&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only-tv.org/images/gromadske-tv.png", Громадське ТВ
+https://www.youtube.com/watch?v=i0bAKWXxH6I&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/detskii.png", Детский канал
+http://50.7.144.75:8081/detskij/index.m3u8?wmsAuthSign=34bbaf94a13bdc61b069d9a228aff1f7-1543738584-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/detskij-mir.png", Детский мир
+http://50.7.180.50:8081/detmir/index.m3u8?wmsAuthSign=c30aa1b1a78fb5e1c607b8aa0556406c-1543738584-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/domkino.png", Дом кино
+http://50.7.136.50:8081/domkino/index.m3u8?wmsAuthSign=d8e48361f54415b2c46e24cf7dc8a4b8-1543727780-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/1483620381_dom_kino_premium.png", Дом кино Премиум
+http://50.7.136.50:8081/dom_prem/index.m3u8?wmsAuthSign=7ae408fa8e28394f0865350de1bf89a9-1543727780-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fan-tv.ru/images/domashniy.png", Домашний
+http://50.7.136.50:8081/domashni/index.m3u8?wmsAuthSign=7b7002a48a67ae94cfc9f2e03087338c-1543727780-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only-tv.org/images/drajv-tv.png", Драйв ТВ
+http://50.7.180.50:8081/drivetv/index.m3u8?wmsAuthSign=dbf6d7c7f6c79a1bbe438a924fe8e1c5-1543738585-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/eurokino.png", Еврокино
+http://50.7.136.50:8081/eurokino/index.m3u8?wmsAuthSign=1bb2cad762fbdd84de64bfa04980ca97-1543727780-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/europaplus.png", Европа Плюс ТВ
+http://50.7.144.75:8081/evropaplus/index.m3u8?wmsAuthSign=99dd3262ca81911f1a8bc40a134652f8-1543738585-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://fan-tv.ru/images/eda.png", Еда ТВ
+http://50.7.136.50:8081/eda/index.m3u8?wmsAuthSign=e40d0e38aa4998832a9aeb135bb568d7-1543727780-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/espresotv.png", Еспресо ТВ
+https://www.youtube.com/watch?v=PRfTLgOgfok&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/zhara.png", Жара ТВ
+http://50.7.144.75:8081/zhara/index.m3u8?wmsAuthSign=044649279ece9d969b8c33dd6f11da24-1543738585-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/zhivi.png", Живи
+http://50.7.144.75:8081/jivi/index.m3u8?wmsAuthSign=ba2776c4ac7708f61a1a53fc74c6a418-1543738585-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/zagorodnaya-zhizn.png", Загородная жизнь
+http://50.7.144.75:8081/zagorod/index.m3u8?wmsAuthSign=f44ed19a4ac84b1a5818b33e3f0bd94e-1543738585-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fan-tv.ru/images/zvezda.png", Звезда
+http://50.7.136.50:8081/zvezda/index.m3u8?wmsAuthSign=5de81123c1d4e877ae8a279614406810-1543727781-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/zoo-tv.png", Зоо ТВ
+http://50.7.180.50:8081/zootv/index.m3u8?wmsAuthSign=fffb551782776f92151cd74d544749bf-1543738585-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/illuzionplus.png", Иллюзион Плюс
+http://50.7.136.50:8081/illyuzion_pl/index.m3u8?wmsAuthSign=6c2290b0804d7bfa17869ff757dfaee7-1543727781-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/indiiskoe.png", Индийское кино
+http://50.7.136.50:8081/indiya/index.m3u8?wmsAuthSign=46fe12f5a36f50760afbe695598eca7a-1543727781-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/indiatv.png", Индия ТВ
+http://50.7.180.50:8081/indiya/index.m3u8?wmsAuthSign=ac3968efef12078f33971fb190a7a0d9-1543738585-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/inter.png", Интер
+http://50.7.127.60:8081/inter/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5f0c40502067a71af73de545acb8fc27T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/istoriya.png", История
+http://50.7.136.50:8081/istoriya/index.m3u8?wmsAuthSign=bf5388648b97f523d5f18c6867a54ec7-1543727781-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/k1.png", К1
+http://50.7.144.75:8081/k1/index.m3u8?wmsAuthSign=b0c0c194dcf9569662c91ea941fa725e-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/k2.png", К2
+http://50.7.144.75:8081/k2/index.m3u8?wmsAuthSign=7d48b830781b487a63abfd5b71ee17d1-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/kazsport.png", КАЗспорт
+http://50.7.127.60:8081/kazsport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg7487351cc35b4dc97344f10840f0fdb6T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/a1.png", Канал A1
+http://50.7.144.75:8081/amedia_1/index.m3u8?wmsAuthSign=b5a12d08ee6c49f5c98ae2cc4835b84a-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/a2.png", Канал A2
+http://50.7.144.75:8081/amedia_2/index.m3u8?wmsAuthSign=13c1e7d262a138e00bf1ad9328c6a689-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/mama.png", Канал Мама
+http://50.7.144.75:8081/mama/index.m3u8?wmsAuthSign=b6d07ec7e7a93a64f0dd0199753c54be-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/kanal-o.png", Канал О!
+http://50.7.180.50:8081/o!/index.m3u8?wmsAuthSign=92e6d896b874f59281c9c502158df310-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/kanal_che.png", Канал Че
+http://50.7.180.50:8081/che/index.m3u8?wmsAuthSign=1fe03aa20236125a8e74475c06728ac6-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/yootv.png", Канал Ю
+http://50.7.180.50:8081/yu/index.m3u8?wmsAuthSign=592afc3867d6d3cc702be5f48f4b8ba5-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://fan-tv.ru/images/karusel.png", Карусель
+http://50.7.136.50:8081/karusel/index.m3u8?wmsAuthSign=56bceebe3f2f69c1cf06e86e33ac452d-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinotv.png", Кино ТВ
+http://50.7.136.50:8081/tv_kino/index.m3u8?wmsAuthSign=07f85b136d45ed5473538dc7e26908c2-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinomix.png", Киномикс
+http://50.7.136.50:8081/kinomiks/index.m3u8?wmsAuthSign=7f41768327e304a2aeaa29b2bbaa5868-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/kinopokaz.png", Кинопоказ
+http://50.7.144.75:8081/kinopokaz/index.m3u8?wmsAuthSign=ab845918d93491299861f53e2a12d2ac-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinopokaz1.png", Кинопоказ 1 HD
+http://50.7.136.50:8081/kinopokaz1/index.m3u8?wmsAuthSign=c1cf77ebd122df2105df5fafb6ca9169-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinopoka2.png", Кинопоказ 2 HD
+http://50.7.136.50:8081/kinopokaz2/index.m3u8?wmsAuthSign=9e2fe167cfc8f1b9dc1f2314ff0211c1-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/kinopokaz-hd1.png", Кинопоказ HD1
+http://50.7.144.75:8081/kinopokaz1/index.m3u8?wmsAuthSign=1b2ea8cfacf93b0073c1e03e2255ad20-1543738586-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/kinopokaz-hd2.png", Кинопоказ HD2
+http://50.7.144.75:8081/kinopokaz2/index.m3u8?wmsAuthSign=c611e30065a0322cdac39cd8b1e09665-1543738587-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinopremiumhd.png", КиноПремиум HD
+http://50.7.136.50:8081/kinoprem/index.m3u8?wmsAuthSign=a89de6781010715b9fc5679b691921f1-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinopremera.png", Кинопремьера
+http://50.7.136.50:8081/kinopremera/index.m3u8?wmsAuthSign=5f386b83dbf9d75a6e1b36a3584450e8-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinosvidanie.png", Киносвидание
+http://50.7.136.50:8081/kinosvidanie/index.m3u8?wmsAuthSign=3809f3efcb946ed0a220d15e2fe0a78a-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinosemya.png", Киносемья
+http://50.7.136.50:8081/kinosemya/index.m3u8?wmsAuthSign=1d574e3995c31544d20ca00aa60c6b6e-1543727782-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinoseria.png", Киносерия
+http://50.7.136.50:8081/mnogo_tv/index.m3u8?wmsAuthSign=2be3896529d5a317fa3aa66939ad5dbf-1543727783-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/kinihit.png", Кинохит
+http://50.7.136.50:8081/kinoxit/index.m3u8?wmsAuthSign=cfe9bfa9d16078b0650e334845c5be96-1543727783-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/komedia.png", Комедия ТВ
+http://50.7.136.50:8081/komediya/index.m3u8?wmsAuthSign=e1840dd931bf653f8a4033ab71a10207-1543727783-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/konnyj-mir.png", Конный мир
+http://50.7.144.75:8081/konnyj_mir/index.m3u8?wmsAuthSign=3e556f4993397308eeea00aa55ca0f1e-1543738587-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/krasnaya-liniya.png", Красная линия
+http://50.7.180.50:8081/rline/index.m3u8?wmsAuthSign=a59f6169f7d5893d1cf60d4223eb45b0-1543738587-731i342i491i58
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only-tv.org/images/krym24.png", Крым 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/kuhnya.png", Кухня ТВ
+http://50.7.136.50:8081/kyxhya/index.m3u8?wmsAuthSign=ed333e57a39aefb39fe7e3e4f81489ad-1543727783-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/lyubimoe-kino.png", Любимое Кино
+http://50.7.180.50:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=4f072884ae0f94b231d55f55df57bbc4-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://fan-tv.ru/images/lyaminor.png", Ля-минор
+http://50.7.136.50:8081/lyaminor/index.m3u8?wmsAuthSign=43d8ea9cf787f3d65a8812ad7b11c9cd-1543727783-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/m1.png", М1
+http://50.7.144.75:8081/m1/index.m3u8?wmsAuthSign=952d927648fb46ec4804341fb0789a1a-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/m2.png", М2
+http://50.7.144.75:8081/m2/index.m3u8?wmsAuthSign=5cb140acf453d1eb58720575f3ec5353-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/malysh.png", Малыш ТВ
+http://50.7.144.75:8081/malysh/index.m3u8?wmsAuthSign=8f9d4ade8ca9eb4f2925b05652d1f069-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/malatko.png", Малятко ТВ
+http://50.7.144.75:8081/malatkotv/index.m3u8?wmsAuthSign=544e147c82196265608fc84ed45cd974-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/mega.png", Мега
+http://50.7.127.60:8081/mega/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg92ce4f1c2ad20e40b832b1b2339f6eb5T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fan-tv.ru/images/mir.png", Мир
+http://50.7.136.50:8081/mir/index.m3u8?wmsAuthSign=6bf5f4aaea989c096787b4b8631163ce-1543727783-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/mir-24.png", Мир 24
+http://50.7.144.75:8081/mir24/index.m3u8?wmsAuthSign=66b185ca6d6b5e78395b6d03ff1bd6fb-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/mir_seriala.png", Мир сериала
+http://50.7.136.50:8081/mirseriala/index.m3u8?wmsAuthSign=3490340ecadba98d3eff4d8f0ab0c4e0-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/mnogotv.png", Много ТВ
+http://50.7.144.75:8081/mnogo_tv/index.m3u8?wmsAuthSign=18f6c3c7e05f8ed65de56fdb586cee13-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/morskoj.png", Морской канал
+http://50.7.180.50:8081/morskoi/index.m3u8?wmsAuthSign=970160b28668092285d7f6542b880277-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only-tv.org/images/moskva_24.png", Москва 24
+http://50.7.144.75:8081/moskva24/index.m3u8?wmsAuthSign=34b84ff2349e8f8e996f9d73b3305cc9-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/my_planet.png", Моя планета
+http://50.7.180.50:8081/moyaplaneta/index.m3u8?wmsAuthSign=95739249df9eff5989281202d136142f-1543738588-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/muz_kinoo.png", Мужское кино
+http://50.7.136.50:8081/myz_kino/index.m3u8?wmsAuthSign=c311beb72f2d9bcad62d325a4b9ff036-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fan-tv.ru/images/muzskoy.png", Мужской
+http://50.7.136.50:8081/muzhskoj/index.m3u8?wmsAuthSign=59b6264f22092cebb9bb6baeb711bf23-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://fan-tv.ru/images/muztv.png", Муз-ТВ
+http://50.7.136.50:8081/muztv/index.m3u8?wmsAuthSign=8052d9351822e52b66f723dad192da88-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/muzyka-pervogo.png", Музыка Первого
+http://50.7.144.75:8081/muzyka_pervogo/index.m3u8?wmsAuthSign=b51392aa35dc99672c51ea033f2fc51f-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://fan-tv.ru/images/mult.png", Мульт
+http://50.7.136.50:8081/mult/index.m3u8?wmsAuthSign=dcc178cf4eec457eb4b7d5bab81bd0e7-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://fan-tv.ru/images/multimaniya.png", Мультимания
+http://50.7.136.50:8081/multimania/index.m3u8?wmsAuthSign=ae6d9411b910c4c15b1cdb8e7ab2cb20-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/multimuz.png", Мультимузыка
+http://50.7.144.75:8081/strana/index.m3u8?wmsAuthSign=3d1bbdaa6a349b0c7d2992c78e8b7eb9-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/nanotv.png", Нано ТВ
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/nauka.png", Наука 2.0
+http://50.7.136.50:8081/nauka/index.m3u8?wmsAuthSign=b7ae7fe7c8fbce629b1877682bcc5072-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/nash-detektiv.png", Наш Детектив
+http://50.7.180.50:8081/semeinoe/index.m3u8?wmsAuthSign=78805cd3d371257d5664dd81146e7811-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/nash-detektiv-hd.png", Наш детектив HD
+http://50.7.136.50:8081/semeinoe/index.m3u8?wmsAuthSign=e769f2372f8541b88ec7f9d1dd2e2bfa-1543727784-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/nash-kinoroman.png", Наш Кинороман
+http://50.7.180.50:8081/nashe/index.m3u8?wmsAuthSign=f69e2eb779e2a4008953db7dae3d6749-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/nashe-lyubimoe-kino.png", Наше любимое кино
+http://50.7.136.50:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=353cfec4624cf785ff7677945d87343a-1543727785-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/nashenovoekino.png", Наше новое кино
+http://50.7.136.50:8081/nashe_nov_kino/index.m3u8?wmsAuthSign=d6058a40e56204510cf53fd1f0fcabeb-1543727785-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/nlo_tv.png", НЛО ТВ
+http://50.7.144.75:8081/nlo/index.m3u8?wmsAuthSign=50ad28b84fee103359624be52ea3eeee-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/noviy.png", Новый канал
+http://50.7.180.50:8081/113/index.m3u8?wmsAuthSign=57d3f96bbb4bb32b198c6cb2f64a415a-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/nostalgiya.png", Ностальгия
+http://50.7.144.75:8081/nostalgiya/index.m3u8?wmsAuthSign=0d3d8eb31de77c186b7aa5b2974fd3ae-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/nsttv.png", НСТ
+http://50.7.144.75:8081/nst/index.m3u8?wmsAuthSign=07e9e2cfe55cd6a9933682682d05996c-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/ntv.png", НТВ
+http://50.7.180.50:8081/ntv/index.m3u8?wmsAuthSign=79f60a80c50b23dae86e0fe289f38bde-1543738589-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/ntv-mir.png", НТВ Мир
+http://50.7.144.75:8081/ntv_mir/index.m3u8?wmsAuthSign=73ddb52c18263f2c99e180c989b62d75-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/ntv-serial.png", НТВ Сериал
+http://50.7.144.75:8081/ntv_serial/index.m3u8?wmsAuthSign=6c062073c256d750e70a8dac283ec7c0-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/ntv-hit.png", НТВ‑ХИТ
+http://50.7.144.75:8081/ntv_xit/index.m3u8?wmsAuthSign=4da8fff1bbbdf7f52a53056100e71a8f-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/ntn.png", НТН
+https://edge2.iptv.macc.com.ua/img/ntn.m3u8
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only-tv.org/images/oruzhie.png", Оружие
+http://50.7.144.75:8081/oruzhie/index.m3u8?wmsAuthSign=a20a631cae38c17d71b27e4ff4dd7aa0-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/ostrosyuzhetnoe-hd.png", Остросюжетное HD
+http://50.7.136.50:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=822194e5b71c8b66abfaff5fbb3c05ab-1543727785-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fan-tv.ru/images/otr.png", ОТР
+http://50.7.136.50:8081/otr/index.m3u8?wmsAuthSign=35b16c35ea78c415aa7d870cdcee8f7d-1543727785-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fan-tv.ru/images/ohotairib.png", Охота и рыбалка
+http://50.7.136.50:8081/ohotaribalka/index.m3u8?wmsAuthSign=6854fc69e036f25bfe1a47168dd5ae41-1543727785-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://fan-tv.ru/images/ohotnikiribolov.png", Охотник и рыболов
+http://50.7.136.50:8081/oxot_i_rib/index.m3u8?wmsAuthSign=79b01564ae32170fbe6137c8f9813d13-1543727786-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/otse.png", ОЦЕ
+http://50.7.144.75:8081/qtv/index.m3u8?wmsAuthSign=ce3231f99cffabd0764528cd56c10f81-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/pervij.png", Первый канал
+http://50.7.127.60:8081/perkanal/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggb79164ad37e24844c1c2b1d68f0fd083T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only-tv.org/images/krym1.png", Первый Крымский
+http://50.7.144.75:8081/krim/index.m3u8?wmsAuthSign=6af982d45150ed11d6fe4f7feef664d6-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/piksel.png", Пиксель
+http://50.7.144.75:8081/piksel/index.m3u8?wmsAuthSign=e0774471ca4cf898f78a60f11b9f1311-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/plusplus.png", ПлюсПлюс
+http://50.7.127.60:8081/plusplus/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg848ecca501ae5663b005a2b271c98c0eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/5kanal.png", Пятый канал
+http://50.7.144.75:8081/5kanal/index.m3u8?wmsAuthSign=09428edabcf43c77009d4bb5568395e5-1543738590-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://fan-tv.ru/images/radost.png", Радость моя
+http://50.7.136.50:8081/radost_moya/index.m3u8?wmsAuthSign=0fe08b28f0b8595e39dddc8cee30046d-1543727786-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/rbk.png", РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/ren_tv.png", РЕН ТВ
+http://50.7.180.50:8081/ren/index.m3u8?wmsAuthSign=1aed568eb6c498589179df530c73c81f-1543738591-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/rodnoekino.png", Родное кино
+http://50.7.136.50:8081/rodnoekino/index.m3u8?wmsAuthSign=cbd203e73814bff9517930a137dee467-1543727786-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/russia_1.png", Россия 1
+http://50.7.144.75:8081/ros_1/index.m3u8?wmsAuthSign=8f9d2fa33a3e58c7455c6475dc39a0cb-1543738591-731i342i491i58
+#EXTINF:-1 group-title="Новостные" tvg-logo="http://only-tv.org/images/rossiya24.png", Россия 24
+https://www.youtube.com/watch?v=K59KKnIbIaM&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/rukultura.png", Россия К (Культура)
+http://50.7.144.75:8081/ros_kyl/index.m3u8?wmsAuthSign=50287f4f459d0cafd8e14621dd8542e2-1543738591-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/planet_rtr.png", РТР Планета
+http://50.7.144.75:8081/rtr/index.m3u8?wmsAuthSign=1f7249c1d72248fdcda2ae4c3a173dba-1543738591-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/russkaya-komediya.png", Русская комедия
+http://50.7.180.50:8081/ryskomedi/index.m3u8?wmsAuthSign=7e1c6624a04d13bf27ea33106c730b83-1543738591-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/rusbess.png", Русский бестселлер
+http://50.7.136.50:8081/rys_bes/index.m3u8?wmsAuthSign=f80c6b2e386d32a7aaf84c7882c94b90-1543727787-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/rus_det.png", Русский детектив
+http://50.7.136.50:8081/rys_dete/index.m3u8?wmsAuthSign=c2f6178a58119082f7fbe40d7bf990ec-1543727787-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/rusilluzion.png", Русский Иллюзион
+http://50.7.136.50:8081/illuzion_rus/index.m3u8?wmsAuthSign=1911087d6f7e3400f062415a1f41aa77-1543727787-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/rusroman.png", Русский роман
+http://50.7.136.50:8081/rys_roman/index.m3u8?wmsAuthSign=83cb09014c2673d633f1bc6b8d362dea-1543727787-731i342i491i58
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only-tv.org/images/ruekstrim.png", Русский Экстрим
+http://50.7.144.75:8081/rys_ekstrim/index.m3u8?wmsAuthSign=cf3b9bbaf1f8593c2ddea529cf2966ee-1543738592-731i342i491i58
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/ryzhij.png", Рыжий
+http://50.7.144.75:8081/riziy/index.m3u8?wmsAuthSign=000524243f1bd703a39ecedbd0694d58-1543738592-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://fan-tv.ru/images/sarafan.png", САРАФАН
+http://50.7.136.50:8081/sarafan/index.m3u8?wmsAuthSign=ae2d9e00cfad4b6c65d1edbe50801d64-1543727787-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/sarafan.png", Сарафан ТВ
+http://50.7.144.75:8081/sarafan/index.m3u8?wmsAuthSign=623eb806d05f3a3982a68dda5db9b281-1543738592-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/setanta.png", Сетанта Спорт
+http://50.7.127.60:8081/setanta_sport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg840a4b5e072e720e58655c99a0403069T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fan-tv.ru/images/sov_sek.png", Совершенно секретно
+http://50.7.136.50:8081/sov_sekretno/index.m3u8?wmsAuthSign=8b9fc86eec0b50efd698ab9e1d84ab2f-1543727787-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/sport1ukr.png", Спорт 1 Украина
+http://50.7.127.60:8081/sport1ukr/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg027cb907186801f4397e1f2afdf41a48T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/sport2ukr.png", Спорт 2 Украина
+http://50.7.127.60:8081/sport2ukr/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5828e362a6b0ae120329efdb701141b2T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/stb.png", СТБ
+http://50.7.180.50:8081/111/index.m3u8?wmsAuthSign=9a028233479f16e68c25b8f4ce3ed6fc-1543738592-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/strashnoe-hd.png", Страшное HD
+http://50.7.136.50:8081/strachnoe/index.m3u8?wmsAuthSign=7fbc3f8152ada3e532af87bfb6948ff7-1543727788-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://fan-tv.ru/images/stslove.png", СТС love
+http://50.7.136.50:8081/stslove/index.m3u8?wmsAuthSign=fe77e97e13a6d2a849a7730de01edc36-1543727788-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/superkanal.png", Супер канал
+http://50.7.144.75:8081/super/index.m3u8?wmsAuthSign=f3b811ede3357b9f09b3bd4a98a836fd-1543738592-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/tvc.png", ТВЦ
+http://50.7.144.75:8081/tvc/index.m3u8?wmsAuthSign=ca638e186f71b4209be73943a9611b4c-1543738592-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/tdk.png", ТДК
+http://50.7.144.75:8081/tdk/index.m3u8?wmsAuthSign=76e89d52e863d4731c705e02556b3c5c-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only-tv.org/images/24dok.png", Телеканал Доктор
+http://50.7.180.50:8081/24doc/index.m3u8?wmsAuthSign=80f60ea14f5a8cb837d17264d7958700-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/pryamoj.png", Телеканал Прямой
+https://www.youtube.com/watch?v=xzEuAJpNhYU&feature=youtu.bebaeec8efa5bd197d4c3b6e05dffdd92cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/telfut.png", Телеканал Футбол
+http://50.7.144.75:8081/futbol/index.m3u8?wmsAuthSign=896f80d25b46bd737cb26af0d84f84af-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/telenovella.png", Теленовелла
+http://50.7.144.75:8081/telenovella/index.m3u8?wmsAuthSign=38f21b57349d53dbdaa7fc3045abecb2-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/tet.png", ТЕТ
+http://50.7.127.60:8081/tet/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggccf31fe6860bba8a89ecc4db76771680T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only-tv.org/images/tlum-hd.png", Тлум HD
+http://50.7.180.50:8081/tlym/index.m3u8?wmsAuthSign=0c6fe190327b7c0a873300c2704b2f30-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/tnt-music.png", ТНТ Music
+http://50.7.144.75:8081/tnt_myzik/index.m3u8?wmsAuthSign=276af279451f78d979873b7010bf8a61-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://fan-tv.ru/images/tnt4.png", ТНТ4
+http://50.7.136.50:8081/tnt_com/index.m3u8?wmsAuthSign=2482daa1503d4a8dce5d8dfba570012d-1543727788-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/tochkatv.png", Точка ТВ
+http://50.7.180.50:8081/tochka/index.m3u8?wmsAuthSign=12976e932b9a7fe6e45d10fff848ddf4-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only-tv.org/images/trk_ukr.png", ТРК Украина
+http://50.7.127.60:8081/trk-ukr/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg6ac6a13794652f2a5963b7f38511fe5fT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Мужские" tvg-logo="http://only-tv.org/images/trofej.png", Трофей
+http://50.7.144.75:8081/trofey/index.m3u8?wmsAuthSign=4b4193f35aacd6d5d90ce40b74545614-1543738593-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/ulybka-rebenka.png", Улыбка ребенка
+http://s3a.privit.pro:8081/ulibka/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg56325001f55c3fc3f5dc8edf4d1783ffT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only-tv.org/images/feniks.png", Феникс Кино
+http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fan-tv.ru/images/fenix.png", Феникс+Кино
+http://50.7.136.50:8081/feniks/index.m3u8?wmsAuthSign=1f2a84db8d12c214fa4f9f7962fcd5b3-1543727789-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/football_1.png", Футбол 1 (Украина)
+http://50.7.144.75:8081/1fu/index.m3u8?wmsAuthSign=0fa4ca94bbde79c19d9be228f20529e7-1543738594-731i342i491i58
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only-tv.org/images/football_2.png", Футбол 2
+http://50.7.144.75:8081/2fu/index.m3u8?wmsAuthSign=dae8600cc80bc5ef130e37c1f80e8b24-1543738594-731i342i491i58
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only-tv.org/images/shanson.png", Шансон ТВ
+http://50.7.144.75:8081/shanson/index.m3u8?wmsAuthSign=0d0956ef5cc875e8e3174e5a1513049b-1543738594-731i342i491i58
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://only-tv.org/images/ekho-tv.png", Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://fan-tv.ru/images/yu-tv.png", Ю
+http://50.7.136.50:8081/yu/index.m3u8?wmsAuthSign=6908a89e7fe2679ec44da8443fc0436f-1543727789-731i342i491i58
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only-tv.org/images/yumor.png", Юмор ТВ
+http://50.7.144.75:8081/jumor_tv/index.m3u8?wmsAuthSign=f73cda9fd7cfca973abdad1ac5f7e4c7-1543738594-731i342i491i58
