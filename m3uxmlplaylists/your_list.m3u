@@ -1,3 +1,518 @@
 #EXTM3U
-#EXTINF:-1,Brodilo TV
-http://brodilo.tv/channel.php
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/omm2Xc8xSVIT6Od6ca4QqMrEXw3jaK.png",1+1
+http://176.120.119.93:805/120/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/YuNtYxhj9vqgTU9kVuz9imhqviY4PZ.png",ICTV
+http://176.120.119.93:805/106/index.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="",UA:Перший (Украина)
+http://176.120.119.93:805/187/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/GxA1KJP5YwpWc38BoPEmLwQH6uDeEz.png",Беларусь 24
+https://stream.hoster.by/belarus24/live/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/qa50GYekwBWym7KtoJdzrWHWqN8TeU.png",Вместе РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/0HLRrFHt2QIkbJpLc1fy0RVe7hqCEC.png",Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v2a1/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/KnipLksxzNVohqgnoJWrFwgk1c9Hpe.png",Интер
+http://176.120.119.93:805/72/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/I43S6jd5noclar0LlPJnyY8adonmUV.png",Красная линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:0 group-title="Региональные" tvg-logo="https://gl.weburg.net/00/tv/channels/1/481/bigposter/667629.png",Крик-ТВ
+https://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/Oq6h2IicTagHENQu1mFkjLk5rChMnr.png",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/BV3vqUP7OJt1MPjJW1sEjatzFb4jsq.png",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/lppYCLErwswZLVXM0zwwLI7gWMEslg.png",НТВ Мир
+http://92.43.140.249/s17/04.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/WimZD6efLd6QotrPP9uiJeF7t50nFv.png",Первый канал
+http://46.32.64.42/s/live/1/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Региональные" tvg-logo="http://test.investigator.org.ua/wp-content/uploads/2015/04/logo.jpg",Первый крымский HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/nIUDYY41OO4Xo0ntGpGv2rfpOR5ngt.png",Пятый канал
+http://46.32.64.42/s/live/10/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/UUrfoqi6NQcc9gRLnCc8ODZJ2T3ShE.png",Россия 1
+http://46.32.64.42/s/live/2/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Религиозные" tvg-logo="http://1ttv.org/uploads/YpsuBorUwulPHW3nI8O6nKETnEVB83.png",Союз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:0 group-title="Религиозные" tvg-logo="http://1ttv.org/uploads/pAFeyS1iCV4BybnpnnwjoKm0y0zvaA.png",Спас ТВ
+http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
+#EXTINF:0 group-title="Религиозные" tvg-logo="http://1ttv.org/uploads/r9O7HmwQbFR4oKMH9yKAogE8xBzwz4.png",ТБН
+http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/0co3dwhFDhoCVeTbfMV8ASYFYxSrWM.png",ТРК Украина
+http://176.120.119.93:805/222/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="https://iptv.zone/images/logo/channel/crops/a61877f56bc63f89e7057d8fd0f4453d.png",ТРО Союза
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/9La0uS6S8rMKr0BOh6vSCQLNiCqN7N.png",5 канал (Украина)
+http://176.120.119.93:805/1/index.m3u8
+#EXTINF:0 group-title="Региональные" tvg-logo="http://1ttv.org/uploads/cLJLEUJDveYDll7FgICzi8i4lFjQol.png",78 канал HD
+https://78.gcdn.co/streams/877_13/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/Vb3fP5gUK0q40WuzYeUhMT7RQmDg27.png",EuroNews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/pViXgcMjLnB5WyOoQJ7sBxhHo5fTSB.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/rL14fwCe8q10mKTchOwLkfwQVki9XK.png",Russia Today
+http://50.7.144.75:8081/russia_today/index.m3u8?wmsAuthSign=613be7631f7c2acaec111d2d5363b3ae-1543749428-812i941i151i871
+#EXTINF:0 group-title="Региональные" tvg-logo="http://1ttv.org/uploads/x4s9QQXR8KerO13nlkuEujzcv5ww5F.png",Крым 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/auv6717gJOWi0A2VoeDQaCsx9G1NOj.png",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/JUMDXZxxB3UiVpMpU8t0aCpbVzxTmP.png",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/LWfGV6eICPYL7psaBfw2dOgGrOtHFS.png",Россия 24
+http://92.43.140.249/s21/04.m3u8
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/FtLnmUwjG18XJFEKYvLKjwUq1gwHVZ.png",1HD
+https://cdn-01.bonus-tv.ru:8090/1HDmusic/tracks-v2a1/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/b4SLIxXFbKUErZxBXfGoo6eQN5Mu38.png",MCM Top
+http://92.43.140.249/s49/04.m3u8
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/GUzJ4cyK50ZahOSIx6tTbwGLJiUnSA.png",Mezzo
+http://92.43.140.249/s35/04.m3u8
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/58.png",VH1
+http://176.120.119.93:805/58/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/VY0TyCCkKOj5b8BhBJjT020sQoxL9F.png",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/XHXBC3ghvhh100BNXylSgJLx5FVQgD.png",2+2
+http://176.120.119.93:805/156/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/NbdxfVLZtRUQzzfvQPNRVMVAl2Hp0O.png",Amedia 1
+http://92.43.140.249/s45/04.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/KY8tm4Runi4FpgUYcAn5WoeXqiD3Y5.png",Amedia 2
+http://92.43.140.249/s33/04.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/ornzQpk6WCW6xk0lyBhlwqH8u2QyU7.png",Amedia Premium
+http://92.43.140.249/s64/04.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/WJMEvVafVakrm7BUMy1lzku7VQCx25.png",TV 1000
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/GblbxkDGXZyW5oWt9W8wuERQAiZ7ZT.png",TV 1000 Action East
+http://92.43.140.249/s91/04.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/ch5DX6f8hxDnmyzrjotUoKHNGzcw9P.png",TV 1000 Русское кино
+http://92.43.140.249/s95/04.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/lO9PoF8cTaTlehJPMkkOqZM1cYEPcc.png",ViP Comedy HD
+http://92.43.140.249/s97/04.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/jI8oqP5EBmcasurdGXR0eXQZRuar3L.png",Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/fKYzdlWRz68qd9mRZnWuxMY73EyaSz.png",НСТ
+http://92.43.140.249/s87/04.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="",НТН (Украина)
+http://176.120.119.93:805/78/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/07bjT0brQLyETHscCfGFtvsdaRiUdH.png",ТВ 3
+http://46.32.64.42/s/live/12/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/JWwPbPnkWooIpKd5WYsdpfO3Mh14oA.png",Точка ТВ
+http://50.7.180.50:8081/tochka/index.m3u8?wmsAuthSign=2435fee07445dd6d4e6ef8addc9af180-1543749437-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/hTpJUV15GSTxZ5kJQGLcn42kCzKyEH.png",2x2
+http://46.32.64.42/s/live/23/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/K4tiqb5ajIgmxqh8X5moJuDjN7q5hx.png",360 градусов
+http://now2.eaglecdn.com/stream/360tv_360media/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/PSjqabjhYIBqcS8hUA8WNrZEjV4zZY.png",Fashion TV
+http://92.43.140.249/s30/04.m3u8
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/fHPc5oaRdIzKpHTqBFnHA4O2LVf91D.png",HardLife TV
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/takNty6pirY7TeCRPX5VyUW1mZHHxI.png",HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:0 group-title="Магазин" tvg-logo="http://1ttv.org/uploads/HVwxC489SYFr8Ttqs1he9RZjEmJjPn.png",Shopping Live
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
+#EXTINF:0 group-title="Магазин" tvg-logo="http://1ttv.org/uploads/uD257Lhw7Ko2YD1reC0nRqW7lpy93D.png",Top Shop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/2YI4sT9YkGezrw9vZPn0uIRhZ7E2BV.png",World Fashion
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/qmqrH2E2EX11qitbIvq0CYsxQjsHGm.png",Домашний
+http://46.32.64.42/s/live/17/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/mk2mYb28HFIxkFIiMNQWmKUdn1Y8hD.png",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/0fafj6PSIWdqtBdgwYTl9M06SDU2wA.png",Пятница
+http://46.32.64.42/s/live/14/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/LsYzwEOUspoxkY2hrTSy9zKqvpWlY8.png",Сарафан ТВ
+http://92.43.140.249/s38/04.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/saZlIDrdaXWoiQa8sfZp2bEAeH0kXk.png",СТБ
+http://176.120.119.93:805/102/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/is620Pu6DreVLLnpHkpcXXZC9PI2Hi.png",СТС
+http://46.32.64.42/s/live/8/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/eSrHE6Gws4U6JxhFXA3mQ4iDVc0SwS.png",ТДК
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/Vtt1KKIpLY4LTQGnV03sdBYyX3hyWR.png",ТНТ
+http://46.32.64.42/s/live/7/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/YvnG7hXCwMmHnakp2KkCbqeCigHcuK.png",Ю
+http://46.32.64.42/s/live/9/86.169.51.136/1/0.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/6VFA1SVxeFHUsGaKPbNxWZREDkGeZw.png",Юмор ТВ
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/chunklist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/Hf5RUQ91cEGtHoaK3GK6VIZlJ8Leql.png",English Club TV
+http://92.43.140.249/s37/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/22I1fK1aMCUgeYUCV0K3vwmlJKELZD.png",Fine Living
+http://92.43.140.249/s51/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/eNC0ZYTqTz4CLqeM5AQfuyQfrqXMRB.png",Food Network
+http://92.43.140.249/s18/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/cvBAngU16nJU1bEzxAEcMPiPvf7fVT.png",Ocean-TV
+http://92.43.140.249/s84/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/g4MDyw0yqXWkIar8eH0cgCz4xhiKON.png",RTG HD
+http://92.43.140.249/s63/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/IeaOjwR6Q9eJjGZr0LYk2tpchM3ITZ.png",RTG TV
+http://92.43.140.249/s80/04.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png",Russia Today Doc
+https://rtmp.api.rt.com/hls/rtdru360.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/uCqpsdKP0ialUUYxUk2fXshYdYfxzW.png",Viasat Explore
+http://92.43.140.249/s72/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/MWGbB8wJp5Gm4vbPHl0ktohDDjMKdr.png",Viasat History
+http://92.43.140.249/s70/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/yimDcPvajJcUKQm9bY15cDdp3rJFcp.png",Viasat Nature East
+http://92.43.140.249/s67/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/ojUD1jhpv7HBOLmubpEBOsANkpYNtk.png",Еда HD
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/RX345W0BBqJbR3XdROHMi4dnbwqwlt.png",Загородный
+http://92.43.140.249/s31/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/RtAhntWPlKQs6CIYAb72piNF9EsN3E.png",Зоо ТВ
+http://92.43.140.249/s92/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/PNRaeOUFzOPFtrclFBBRTckj6Lvo0u.png",История
+http://92.43.140.249/s40/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/QuURIfJUmXegxsHMYqMivVwxizbfKd.png",Нано ТВ
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/ypWbqYqKApM8cnDK1FibvQgpmgEay9.png",Наука 2.0
+http://92.43.140.249/s98/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/pGM4tozKksBqooWcNRNKr0xG2c5WUN.png",Приключения HD
+http://92.43.140.249/s99/04.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/Fpx3Vqqk2VNcXl4YjsfO53XscWadvF.png",Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/cqp5hEglDGFImvFyt1tVUJsz91XxEQ.png",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/W9pWrec1BOJTmj8okrFeyM44wcpyd4.png",Россия К
+http://51.15.194.248:8081/live/kultura/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/fYRFV5oY197jXcyModfWVs0AlrCOIs.png",Телекафе
+http://92.43.140.249/s56/04.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/JxEjTeXwExjnxutQGKJBmMI85tpNqK.png",Disney Channel
+http://92.43.140.249/s60/04.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/mD3GW0E7rdPwc4stjk7xrLI2gZn4Hq.png",TiJi
+http://92.43.140.249/s59/04.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/nw9fROQIjjKSDp8Wjkjl1Wt0n0xHxd.png",Мама
+http://92.43.140.249/s77/04.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/ZVzHvGF8mZ6RTsSh6aWsPbF1FBLjyp.png",Мульт
+http://92.43.140.249/s58/04.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/VRylZFYgFq7AL0FWcbf5JVOX3desn3.png",Радость моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/s3qlrVrIjISf7K0G4HHRYw5rmAej4b.png",Бокс ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/Ws2ddPI0b5Ie7PymoPUsboVlz9lYMS.png",Охотник и рыболов
+http://92.43.140.249/s55/04.m3u8
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/O0wexOqiQXKMwr2coDMKWvJEb4zLQ1.png",Охотник и рыболов HD
+http://92.43.140.249/s62/04.m3u8
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/upndVpIdjY3vb5vrituof5UcKISNcQ.png",Русский экстрим
+http://92.43.140.249/s47/04.m3u8
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/JbUGHLuuZa3WQbjtbzUo0cDZkGnLRK.png",Техно 24
+http://92.43.140.249/s68/04.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="https://iptv.zone/images/logo/channel/crops/d5b17d230ad6a3381c2c3f9a47960d41.png",Setanta Sports Eurasia HD
+http://92.43.140.249/s81/04.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="http://www.hokejatv.com/_pu/0/98931746.png",Setanta Sports+ Eurasia HD
+http://92.43.140.249/s82/04.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/o6hJZQsDYVeZ3alsvfmZY6gFxvrNue.png",Xsport
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="",Спорт 1 (Украина)
+http://176.120.119.93:805/sport1/index.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="",Спорт 2 (Украина)
+http://176.120.119.93:805/sport2/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/472.png",Футбол
+http://92.43.140.249/s41/04.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="https://banner2.kisspng.com/20180624/uig/kisspng-fc-mariupol-fc-shakhtar-donetsk-ukraine-football-1-5b30092eb88c69.6585073415298747347559.jpg",Футбол 1 (Украина)
+http://176.120.119.93:805/224/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="",Футбол 2 (Украина)
+http://176.120.119.93:805/1203/index.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png","Израиль",ILand (Israel)(RUS)
+http://146.185.61.140:1935/ILAND/smil:iland.smil/playlist.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png",Русский Экстрим (Ретро)
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png",112 Украiна
+http://112.ua/components/flowplayer/html5/master.m3u8
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/8kCEfoFFrcYOp9XirSSHgjVdEIU9Qr.png",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png",Юмор Box
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="http://1ttv.org/uploads/m5ovqEmNcjUcZnDtmQGDMuE7aI0KzW.png",KINO 24
+http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png","Каббала" на иврите
+http://edge1.il.kab.tv/rtplive/tv66-heb-medium.stream/chunklist_w1815442055.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png","Каббала" на русском
+http://edge1.il.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w1744836228.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png",Наше TV
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="http://1ttv.org/uploads/VRylZFYgFq7AL0FWcbf5JVOX3desn3.png",Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="No group" tvg-logo="https://finexecutive.com/uploads/company/no-logo.png",NFL Network
+http://23.237.22.82:8086/udp/127.0.0.1:56050
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/Dj0hDhHdckvGp86dDi058HRBe6JLq0.png",Наш Детектив
+http://50.7.180.50:8081/semeinoe/index.m3u8?wmsAuthSign=8df0852f7be87d5d40e882d911b6e22e-1543749416-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/p580CRZ8bBS6dw3plMWhhxXSzQ59uS.png",КиноПремиум HD
+http://50.7.144.75:8081/kinoprem/index.m3u8?wmsAuthSign=54d2ce4bc2dc3ce7839f26a14546414e-1543749416-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/uzlb3awoyNqvIcf6i35hTVqf7gvuqz.png",Морской канал
+http://50.7.180.50:8081/morskoi/index.m3u8?wmsAuthSign=01fc4e9450feadc6e6833380a5a451ee-1543749416-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/pU2NsRP9CVtEgQuDTi9jcTYV8iAD4a.png",Galaxy TV
+http://50.7.144.75:8081/galaxy/index.m3u8?wmsAuthSign=47443f7da360469270e5531ac64720a5-1543749416-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/yTclqOAW0EWwhw9vt0spVSUcS70ZR0.png",ТНТ4
+http://50.7.144.75:8081/tnt_com/index.m3u8?wmsAuthSign=b9c2c8502049a7ec1c4851215ef07a98-1543749416-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/k7YdHhVpFZPIkBMXS2P2O2TkZSPf0y.png",Новый канал
+http://50.7.180.50:8081/113/index.m3u8?wmsAuthSign=19b1b1ab901c3ab93bf31381bc1aa650-1543749416-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/j66xpaZbfiYIgQxv76QAPckPVjmLNs.png",Nickelodeon
+http://50.7.180.50:8081/nickelodeon/index.m3u8?wmsAuthSign=012cf7447a8e866e9191833a0198b989-1543749416-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/6Go23tY9hpakfrvTEUH7Z7o5Y9hpOG.png",ТНТ Music
+http://50.7.144.75:8081/tnt_myzik/index.m3u8?wmsAuthSign=d29b0945842082a738f567c562b9ac9b-1543749417-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://alllogos.ru/images/logotip-mnogo-tv.png",Много ТВ
+http://50.7.144.75:8081/mnogo_tv/index.m3u8?wmsAuthSign=78f76d530af454a7e14310896a6036c8-1543749417-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/0IZrVwoxtmjtgnWu5Dj4Hb8FRc8NIX.png",365 Дней
+http://50.7.144.75:8081/365_dney/index.m3u8?wmsAuthSign=e0f4b45a2b9802bd8f98ffd6910fe3f4-1543749417-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/rozrC8ZPYA1YGajyow35doeVcaQzpa.png",AMC
+http://50.7.180.50:8081/amc/index.m3u8?wmsAuthSign=bcc2def1b1ec05b698d4a7575c8ca273-1543749417-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/IXY7dRFoq0qCqn4UbY47iP36vVZ6ck.png",Мега
+http://50.7.127.60:8081/mega/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg88663c8307590d9898640dc096d3b937T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/jp0YxRwXOyMWgVfDAyQaXNwle90sV3.png",ТЕТ
+http://50.7.127.60:8081/tet/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggd20c1569600098f896dfc4bd370390f3T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/uCqpsdKP0ialUUYxUk2fXshYdYfxzW.png",Viasat Explorer
+http://50.7.127.60:8081/vi_explorer/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge717047f95d78c2b627b5af09b82fa3aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/yimDcPvajJcUKQm9bY15cDdp3rJFcp.png",Viasat Nature
+http://50.7.127.60:8081/vi_nature/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggfa5dd0602bf3e20b55659ab39576a545T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Общие" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/NLO_TV.png",НЛО ТВ
+http://50.7.144.75:8081/nlo/index.m3u8?wmsAuthSign=dde5e62227596ffbbc2f7a47ad665920-1543749418-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/LJvkfB2kYaDzij1Y13Fy6syUCkP5Y6.png",РЕН ТВ
+http://50.7.180.50:8081/ren/index.m3u8?wmsAuthSign=ea27f1941708260f507826b71ea1bfae-1543749419-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/lGHuG6fgZVQwxtBNJxK1sefakkvKOe.png",Супер канал
+http://50.7.144.75:8081/super/index.m3u8?wmsAuthSign=92c0d58add51199bd4f17ea5e06d431f-1543749419-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/132.png",Мультимания
+http://50.7.144.75:8081/multimania/index.m3u8?wmsAuthSign=adadd1cceba01a3e4e9ef7f6bb3055e3-1543749419-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/KkITMDICqC1erWdSqyOqoccqde2wHC.png",Кино ТВ
+http://50.7.144.75:8081/tv_kino/index.m3u8?wmsAuthSign=a5ba8ce27df2fa7467ba0e40cc717d24-1543749419-812i941i151i871
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/CyDUCmYXK8WS2kXCX5kiAOFejnlwoP.png",Оружие
+http://50.7.144.75:8081/oruzhie/index.m3u8?wmsAuthSign=309860695174d32b2158520acfdf5224-1543749419-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/JbUGHLuuZa3WQbjtbzUo0cDZkGnLRK.png",24 Техно
+http://50.7.144.75:8081/24techno/index.m3u8?wmsAuthSign=ad3bdfd76bc9aaf88778db82d35127e4-1543749420-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/JxEjTeXwExjnxutQGKJBmMI85tpNqK.png",Disney
+http://50.7.180.50:8081/disney/index.m3u8?wmsAuthSign=85471fba49b369ec3c43b14788c08c3a-1543749420-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/gttVvZmkAklbl2i0Mqy1MCzSCn7WiY.png",Муз-ТВ
+http://50.7.144.75:8081/muztv/index.m3u8?wmsAuthSign=797d7ecd1eeb505078f72847b9e3336e-1543749420-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/CqxKorK72v3ULbWkB3ZOhdte0duYZa.png",ОТР
+http://50.7.144.75:8081/otr/index.m3u8?wmsAuthSign=92d4b3de721b1547d81d026241f3226d-1543749421-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/gaDNYH0NRmBGqiH2O329K9oTM4M1Jd.png",Русская комедия
+http://50.7.180.50:8081/ryskomedi/index.m3u8?wmsAuthSign=7279fb50f0bce617ec9c6b1629d6b623-1543749421-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/KPNj0b4rZBtEB50yasdM72Th7UqrKm.png",Spike
+http://50.7.144.75:8081/spike/index.m3u8?wmsAuthSign=0060b0eefc4eedc43ca6a21164ecc645-1543749421-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/r0vFnRWru2IPjGSsln31IhJ87r8m9l.png",СТС Love
+http://50.7.144.75:8081/stslove/index.m3u8?wmsAuthSign=6a5bfef7eb6acac9f594820db3fd817c-1543749421-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://n.divan.tv/img/global_img/media_api/channels/b4b4525d/2dc5e8f5_med.png",ОЦЕ
+http://50.7.144.75:8081/qtv/index.m3u8?wmsAuthSign=e4525ae0e0d09e80466fdc56909e0f8d-1543749421-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/hTpJUV15GSTxZ5kJQGLcn42kCzKyEH.png",2х2
+http://50.7.144.75:8081/2x2/index.m3u8?wmsAuthSign=7f47ba754262b1e6c46d0be9c124af0e-1543749421-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/Hv36ZG48lg1mm2wdxAo3ju1EFS41Ga.png",Канал Че
+http://50.7.180.50:8081/che/index.m3u8?wmsAuthSign=db0250b0658eea00f71c8ea30fc28ab6-1543749422-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/y087hci8ityixcnyxinxoafhiu.png",Комедия ТВ
+http://50.7.144.75:8081/komediya/index.m3u8?wmsAuthSign=d206af0bbcdc851b57902eb4be663afb-1543749422-812i941i151i871
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/PUXTI9mKcs49JnEENkh95KoKqt9VNg.png",Футбол 2
+http://50.7.144.75:8081/2fu/index.m3u8?wmsAuthSign=6d026b87afb805435122646c4460d7dd-1543749422-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://tavrida-telecom.ru/images/ktv/52.png",Иллюзион Плюс
+http://50.7.180.50:8081/illyuzion_pl/index.m3u8?wmsAuthSign=98eaa37301e52a99ea8a785ba2b32111-1543749422-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://fmtv.at.ua/_nw/0/68296104.png",НТН
+https://edge2.iptv.macc.com.ua/img/ntn.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/9cVifexiWW0qWDhhpnLNVydoZkeRqZ.png",History
+http://50.7.144.75:8081/history/index.m3u8?wmsAuthSign=57e6cfccd0d877ccaec0163880c6a6d3-1543749423-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="https://iptv.zone/en/images/logo/channel/crops/41b321e5f77f2d9d738645ecde08178a.png",Zee TV
+http://50.7.144.75:8081/zee_tv/index.m3u8?wmsAuthSign=40d8e3fe87ec872ec255c78ad3126382-1543749423-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/2Edln8vEbg7UUSVUo7lIJPR780OWAR.png",Бобер ТВ
+http://50.7.180.50:8081/bober/index.m3u8?wmsAuthSign=1c6eed0f0dfab24c5ccbccc8d30f884e-1543749423-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/i6STSw6Hg1wWP18yBAOyKoKpSMeKLu.png",National Geographic
+http://50.7.144.75:8081/nat_geogra/index.m3u8?wmsAuthSign=383f9bd9638e32312347de168aa04e77-1543749423-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/Qa41eifERrD77xQsmpRGbeTq95Ldlv.png",Моя планета
+http://50.7.180.50:8081/moyaplaneta/index.m3u8?wmsAuthSign=c06abae53a3f72cc60eb7bc92438d69b-1543749423-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/S233D4b6eq7KOXfdyi4dY2GokKeltg.png",Карусель
+http://50.7.144.75:8081/karusel/index.m3u8?wmsAuthSign=3d4bacdfa41d2e2eac241933433cc400-1543749423-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/BZJQEpa6Y4KL9tQjPHAIxbodw0KAyN.png",Совершенно секретно
+http://50.7.144.75:8081/sov_sekretno/index.m3u8?wmsAuthSign=fee10784312af6ac3a39dd05801919ad-1543749423-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/IjG76jf8k8HTNLooNpUiEXtkPfA2rG.png",К2
+http://50.7.144.75:8081/k2/index.m3u8?wmsAuthSign=b38ca268bf8020e655bd2306adfca168-1543749423-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/E9Imfr8aHN5midPVpNhJ3fo49FHbQE.png",Русский Иллюзион
+http://50.7.180.50:8081/illuzion_rus/index.m3u8?wmsAuthSign=52ec3d3c9e6d676006e679f5c3ec6bbd-1543749424-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/NbdxfVLZtRUQzzfvQPNRVMVAl2Hp0O.png",Канал A1
+http://50.7.144.75:8081/amedia_1/index.m3u8?wmsAuthSign=c84347ad24654a13b17e95a7614c44c8-1543749424-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/KY8tm4Runi4FpgUYcAn5WoeXqiD3Y5.png",Канал A2
+http://50.7.144.75:8081/amedia_2/index.m3u8?wmsAuthSign=4a1e0ed03697ffd55515d22ed74818cb-1543749424-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/ornzQpk6WCW6xk0lyBhlwqH8u2QyU7.png",Amedia Premium HD
+http://50.7.180.50:8081/amedia_pre/index.m3u8?wmsAuthSign=985380649f97e350c439df411d961655-1543749424-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/QEpQTskZ9hcfI0rgD8osHVYSv58pde.png",ТВЦ
+http://50.7.144.75:8081/tvc/index.m3u8?wmsAuthSign=eecd1453de5c6798b18790e3f39406f1-1543749424-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/jgQeBwyqQI1Qh1r2aeOK5NiyPtcjTd.png",РТР Планета
+http://50.7.144.75:8081/rtr/index.m3u8?wmsAuthSign=69dcad4a62000cd9a6741e5130e76350-1543749424-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/5EtvAWXB7VK1Yw82yvO28sY28dU4ZC.png",Paramount Comedy
+http://50.7.180.50:8081/paramount/index.m3u8?wmsAuthSign=ece4b6b4b9db6d8278a4a5e732b34436-1543749424-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/FhxsethirEr5lhrE54VGA4acHu7MJn.png",Тлум HD
+http://50.7.180.50:8081/tlym/index.m3u8?wmsAuthSign=3c1a364bf9decdbac1ac35937fd77b44-1543749424-812i941i151i871
+#EXTINF:0 group-title="Региональные" tvg-logo="http://1ttv.org/uploads/dZcmoqRoZLhCBh8BE4RnbQivuDY6hH.png",Москва 24
+http://50.7.144.75:8081/moskva24/index.m3u8?wmsAuthSign=db725d434ed1a84d11d7dca8d51af780-1543749425-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/b5JXaosgmcanh9EVJg52yBefvdLQF7.png",Русский бестселлер
+http://50.7.144.75:8081/rys_bes/index.m3u8?wmsAuthSign=66c0481c1e5f75eb89d5e57a15b0d20c-1543749425-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/2smriIFxtj7Ojh4jyZq0K1XrT98XjS.png",Русский роман
+http://50.7.144.75:8081/rys_roman/index.m3u8?wmsAuthSign=49f0658d45266efbf1f9e8787f6734ad-1543749425-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/7I7VjbsFMIkZdoSbHFXiKEVZKNUbOM.png",Русский детектив
+http://50.7.144.75:8081/rys_dete/index.m3u8?wmsAuthSign=882f2234c27893ef76bbd6540b2d99bf-1543749425-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/P5ijp2sRQsKVZkOJwjdqIVgYdJzhpZ.png",MTV Россия
+http://50.7.144.75:8081/mtv_rys/index.m3u8?wmsAuthSign=356ce58fea6756b045975befa05480ba-1543749425-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/zaHCW7nPCyGRnqHDkenCIXo7d6vR7v.png",Russian Music Box
+http://50.7.144.75:8081/musicbox/index.m3u8?wmsAuthSign=6f5d31f6f4a3bd09c8ee53e09756774e-1543749425-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/URbjXLIczJp6syhOhecqp64iWPki6N.png",Европа Плюс ТВ
+http://50.7.144.75:8081/evropaplus/index.m3u8?wmsAuthSign=f31c28720dcfb54982fa3b9797875bc5-1543749425-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/JvcMdB5e6KVBpbXT12ulzmDqenheRx.png",Бигуди
+http://50.7.127.60:8081/bigydi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg57a024c7e1e1f02da32d6df79d0cba5aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/jk8kody2p38CKdj5KGXWMwRLjgFIlG.png",Детский канал
+http://50.7.144.75:8081/detskij/index.m3u8?wmsAuthSign=926459c1955ff82288b35f62199031bf-1543749426-812i941i151i871
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/GZwKgvkC0vfYquFAn1dKhppNxdDit9.png",Авто 24
+http://50.7.144.75:8081/avto24/index.m3u8?wmsAuthSign=9049b9b11498b5a4206989db541ef47c-1543749426-812i941i151i871
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/WkRxjy6fJEBJ5NZiaGn2j05eqfFfQq.png",Авто плюс
+http://50.7.144.75:8081/avtoplus/index.m3u8?wmsAuthSign=10b5294ff2aa7da7ee82d38f4d769e71-1543749426-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/8FJA3xMMHcrZuGifHViyVQLjVIem5u.png",Ля-минор
+http://50.7.144.75:8081/lyaminor/index.m3u8?wmsAuthSign=063e7f6c43da15b3a0d62790089eab41-1543749426-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/jlC78Fy13KWjQUN6l3FtbsRLZDvc0x.png",Дом Кино
+http://50.7.144.75:8081/domkino/index.m3u8?wmsAuthSign=22ff4898f77b0ad2e26432a364180b7f-1543749427-812i941i151i871
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/o6hJZQsDYVeZ3alsvfmZY6gFxvrNue.png",XSport
+http://50.7.127.60:8081/xsport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg62b32c4dda3e5fbbd90d29b6f7ff0727T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/kjYF9vS2IDTMehpzC7WWfjnZ4NVpuk.png",Малятко ТВ
+http://50.7.144.75:8081/malatkotv/index.m3u8?wmsAuthSign=d4e92f5a4f5ff650098e3ae5f117a3e9-1543749427-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="",Бридж ТВ
+http://50.7.144.75:8081/bridge/index.m3u8?wmsAuthSign=b6cdf907108568f1b473a0eb9537d6a0-1543749427-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/y997iu65e65h4w5d3s4dy.png",Мужское кино
+http://50.7.144.75:8081/myz_kino/index.m3u8?wmsAuthSign=abfb34877fec140b4e9a135686fdadf5-1543749427-812i941i151i871
+#EXTINF:0 group-title="Новости" tvg-logo="http://1ttv.org/uploads/lIwbRbM3ve4ixhFXp75Oap9nzcO71G.png",CNN
+http://50.7.144.75:8081/cnn/index.m3u8?wmsAuthSign=5cb00c31aef8027064a93abab2cf43d9-1543749428-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/6gVIy7RMokFO61iVawgwbthe5mhgqm.png",ПлюсПлюс
+http://50.7.127.60:8081/plusplus/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggb3daf6851a347d2d23bcee4042e84dafT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/G0WbVMphlP9oJ6KvHRfx0xDfhrF9Re.png",Кухня ТВ
+http://50.7.144.75:8081/kyxhya/index.m3u8?wmsAuthSign=89cffb4488076a3a6a1cd5bbe1b6f215-1543749428-812i941i151i871
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/6YbhuWNqPKQWWsUGbBnSbAbm7IGssX.png",Мужской
+http://50.7.144.75:8081/muzhskoj/index.m3u8?wmsAuthSign=4ff359b0613aab6361da748d6f0554e4-1543749428-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/wKPUJjcpZIfI5zBSZwNayOlv63zRNV.png",8 канал
+http://50.7.144.75:8081/8_kanal/index.m3u8?wmsAuthSign=1212b978dace681df0248fe37dc60c52-1543749429-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/vEoVQGHX6GpJzPFtLwTwpG29fd1mci.png",Страшное HD
+http://50.7.180.50:8081/strachnoe/index.m3u8?wmsAuthSign=c956563f20a7a26311ae0a7ae99c13e2-1543749429-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/YvnG7hXCwMmHnakp2KkCbqeCigHcuK.png",Канал Ю
+http://50.7.180.50:8081/yu/index.m3u8?wmsAuthSign=3c9b326aa80ff08d40a18ffae3a3a213-1543749429-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/wK2PgqTn6FNznQIQPX8pkdq05nkz1L.png",Беларусь 5
+http://50.7.127.60:8081/belarus5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg3b0b3c7a50cafabdcc30254667b01946T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/5l2P20J6ebTh0ptOr27Hh704niP3nU.png",Охота и рыбалка
+http://50.7.144.75:8081/ohotaribalka/index.m3u8?wmsAuthSign=f5face4845afed1746675893a55385d0-1543749430-812i941i151i871
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/IzUNez8spn44tivGiApqajydfeOwxg.png",Драйв ТВ
+http://50.7.180.50:8081/drivetv/index.m3u8?wmsAuthSign=20b4e463289156444f84b15cf4d43290-1543749430-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/W9pWrec1BOJTmj8okrFeyM44wcpyd4.png",Россия К (Культура)
+http://50.7.144.75:8081/ros_kyl/index.m3u8?wmsAuthSign=33e257e274d505720b5a956b7952e00b-1543749430-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/mxF7CZsqsDRMMK4pN8ekdccEgvEsZC.png",Остросюжетное HD
+http://50.7.180.50:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=394920c6a133779a7d2913aea5ad6a0b-1543749430-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="",Наш Кинороман
+http://50.7.180.50:8081/nashe/index.m3u8?wmsAuthSign=6f370d46303763ee708a697dc7023256-1543749430-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/34mszCG0j0Vf6kFcMrLPnFEA8UPdu6.png",Еврокино
+http://50.7.144.75:8081/eurokino/index.m3u8?wmsAuthSign=0909a4a952e6f0896a549b1598bf34d7-1543749431-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/FznqTpJ71LS3RLESzMOHhNDxJMwBE8.png",Телеканал Доктор
+http://50.7.180.50:8081/24doc/index.m3u8?wmsAuthSign=4392eea7ab8b38a83bc76eb5f0d175fb-1543749431-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="https://ortus-global.com/files/253/indiyabig.png",Индия ТВ
+http://50.7.180.50:8081/indiya/index.m3u8?wmsAuthSign=a4a7c2c9ae136118b8d6c57f8799ea32-1543749431-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/mD3GW0E7rdPwc4stjk7xrLI2gZn4Hq.png",Tiji
+http://50.7.144.75:8081/tiji/index.m3u8?wmsAuthSign=c3b7b57f3114453cc86b23c00318d062-1543749431-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/2IynBdmw3mmdXt01r8DXKxeor7STnw.png",Gulli
+http://50.7.144.75:8081/gulli/index.m3u8?wmsAuthSign=d19ab2b1ec0f665b9e384ca2ff56d94b-1543749431-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/o4K0lgc2D1GkuFwMC3Cdg1uK6fMrG4.png",MGM
+http://50.7.144.75:8081/mgm/index.m3u8?wmsAuthSign=49b69fcb51d8697cd9a138760b6a2065-1543749432-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/upndVpIdjY3vb5vrituof5UcKISNcQ.png",Русский Экстрим
+http://50.7.144.75:8081/rys_ekstrim/index.m3u8?wmsAuthSign=6458e1e7c12a1dca6ce924f9ea45761a-1543749432-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/ojUD1jhpv7HBOLmubpEBOsANkpYNtk.png",Еда ТВ
+http://50.7.180.50:8081/eda/index.m3u8?wmsAuthSign=5722914d36955f2bdafc5ef3560c9b99-1543749432-812i941i151i871
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/zAxggoK4WqvSUyLGfILmZBHWVBW6xi.png",Сетанта Спорт
+http://50.7.127.60:8081/setanta_sport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1255d11a2f551e5bc5accbf28fa65449T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/BdCXB7wPZMNvlWzB5xEFzmsYUXcfXW.png",Пиксель
+http://50.7.144.75:8081/piksel/index.m3u8?wmsAuthSign=96190259419f7b9f87ab5b5cd9e3d3b8-1543749432-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/fhmrYjlpC0YMxFd2RqOolbjlXMr0tI.png",Travel Channel
+http://50.7.144.75:8081/travel/index.m3u8?wmsAuthSign=ce028e85f6d80cdd11bed82992b3a8b0-1543749432-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/ezvu2ugYMGnZ968LlnjPw7VjqWIPeM.png",М1
+http://50.7.144.75:8081/m1/index.m3u8?wmsAuthSign=2b6d1aafe30c8a85b069dc570466ec6d-1543749432-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/U4s78hznNz7mFYZQICkxN7J0HTtlCP.png",М2
+http://50.7.144.75:8081/m2/index.m3u8?wmsAuthSign=0ff2597ece836686fce796801bc71556-1543749432-812i941i151i871
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/SuxFoocUmay5G8jtfJaHL1yIbAT5Hr.png",Outdoor Channel
+http://50.7.144.75:8081/outdoor/index.m3u8?wmsAuthSign=d75f02c2e7a5f1981c4b5c588ed54208-1543749433-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/D87kJ3fIWIm5wKi5qxm24nbuPQv0U8.png",Nick Jr
+http://50.7.144.75:8081/nickjr/index.m3u8?wmsAuthSign=b6ebfefa2e83527f764b482dc941221e-1543749433-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/b1HifWKMyefmDDvaDAJTwNNTaD8LF4.png",Travel and Adventure
+http://50.7.144.75:8081/travel_adventure/index.m3u8?wmsAuthSign=772f44ddf03c9aada14d897286b7f24b-1543749433-812i941i151i871
+#EXTINF:0 group-title="Региональные" tvg-logo="http://test.investigator.org.ua/wp-content/uploads/2015/04/logo.jpg",Первый Крымский
+http://50.7.144.75:8081/krim/index.m3u8?wmsAuthSign=c0b45730db3d1694deeb3a6f697d8643-1543749433-812i941i151i871
+#EXTINF:0 group-title="Спорт" tvg-logo="http://sportlook.tv/uploads/posts/2016-12/1483188447_setanta-sport-plyus.png",Setanta Sports Plus
+http://50.7.127.60:8081/setanta_pl/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg8f1ca9f340bae5e94a6ffbf9862ba091T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/cOluSjslxxs3JZtSVO8c15xh7h8SDU.png",Живи
+http://50.7.144.75:8081/jivi/index.m3u8?wmsAuthSign=71dffb018fe29c629f42ca9135e98bcd-1543749433-812i941i151i871
+#EXTINF:0 group-title="Новости" tvg-logo="http://1ttv.org/uploads/8cSYWwvq6BAzcGDjJODvCGQYGJ2c4S.png",BBC News
+http://50.7.144.75:8081/bbc/index.m3u8?wmsAuthSign=6ba331564c97d0d10722ecc8b8df2fa7-1543749434-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/nw9fROQIjjKSDp8Wjkjl1Wt0n0xHxd.png",Канал Мама
+http://50.7.144.75:8081/mama/index.m3u8?wmsAuthSign=b02f8908cd972b2fff3a5942641df62d-1543749434-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/XGC77wQNeEyaJ2z2mDipyIPsoF0xc1.png",FOX
+http://50.7.144.75:8081/fox/index.m3u8?wmsAuthSign=b890b02eff8ba607053fa1e3163ba192-1543749434-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/rkksGUl3DstQSEyT26Q07hNCEwyNnd.png",Fox Life
+http://50.7.144.75:8081/fox_l/index.m3u8?wmsAuthSign=d43597bd3f91fa4b5c307e258075405d-1543749434-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/zLWEgf9BbxBr1TR2Qj2NxVQBuPecEP.png",Sony Sci-Fi
+http://50.7.144.75:8081/sony_sci_fi/index.m3u8?wmsAuthSign=7318733425388eb98a758374ed287495-1543749434-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/CaPjVaQrpyN138TarQ7CYBqBOz0ZF7.png",Sony Turbo
+http://50.7.144.75:8081/sony_turbo/index.m3u8?wmsAuthSign=842a42349e500f909b050bc3f01a23a6-1543749434-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/tKzOKIcOQYrFl1VL8B0QqERFXCAYfU.png",SET
+http://50.7.180.50:8081/set/index.m3u8?wmsAuthSign=683fe8e4ab794e1a7e80cdfc63454203-1543749434-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/tIfiXoDaXoZevuGu9pZJSvX8unv1xl.png",Ностальгия
+http://50.7.144.75:8081/nostalgiya/index.m3u8?wmsAuthSign=4be690347a13faae46b270989a7e5d36-1543749435-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/JyL1N1Hquqln9yz7bk8ARxpXdPklKO.png",Мультимузыка
+http://50.7.144.75:8081/strana/index.m3u8?wmsAuthSign=4ef12cdfeab0ebad5177fcf0b62bfa8e-1543749435-812i941i151i871
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/d8gVne1Em14rIfM6pSsiuufXZeYQqi.png",Конный мир
+http://50.7.144.75:8081/konnyj_mir/index.m3u8?wmsAuthSign=28bebc2315629de6c6bc97f2e1367716-1543749436-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/L2qsABeMEDKOSG4Tvh7XpfvX2BfksG.png",Кинопоказ
+http://50.7.144.75:8081/kinopokaz/index.m3u8?wmsAuthSign=dc4db9d5f3756acf2721ed1c1ca1453c-1543749436-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="https://iptv.zone/images/logo/channel/crops/93991dea598a3be850c7bc1a1919a23d.png",Bollywood
+http://50.7.180.50:8081/bollywood/index.m3u8?wmsAuthSign=3eb268ce5570e0df070f6470a42bdbc0-1543749436-812i941i151i871
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/21FhIqWK82JDPNuLTEIC9hSO2EHfks.png",Extreme Sports
+http://50.7.180.50:8081/ext_sport/index.m3u8?wmsAuthSign=e571d336b5cc752bc67cd2763896861b-1543749437-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/zHhfMQhsdu59e6puujg0qHt1675jYO.png",Канал О!
+http://50.7.180.50:8081/o!/index.m3u8?wmsAuthSign=b10243f5e2bf3d988dd8f23378c1e350-1543749437-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/XWDsU7aoUyPPoKfcX7WMYQheuzHJL0.png",Мир сериала
+http://50.7.180.50:8081/mirseriala/index.m3u8?wmsAuthSign=942efd85dba8ffeb2fffc12d0fa98d80-1543749437-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/Iyzjhb5BBRKfvEZdBwNJ785jzroODU.png",Paramount Channel
+http://50.7.144.75:8081/param_chanel/index.m3u8?wmsAuthSign=6e51c94a7bdd90733a8d0c560706e7fa-1543749437-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/pNA1vR3sPoovYNKzO4TU6NQcSXNqjk.png",Кинопоказ HD1
+http://50.7.144.75:8081/kinopokaz1/index.m3u8?wmsAuthSign=df18aa6d72bfac53c7ac8715b02a2022-1543749437-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/Yf2XKrtorOF2wSZ23Q9NHhL2MfOcqi.png",Кинопоказ HD2
+http://50.7.144.75:8081/kinopokaz2/index.m3u8?wmsAuthSign=389b05c30b1f9290116625803f03ab15-1543749437-812i941i151i871
+#EXTINF:0 group-title="Спорт" tvg-logo="http://1ttv.org/uploads/prAZKkny3W1HGM03lP0EhzcMmTPZdi.png",Viasat Hockey
+http://50.7.127.60:8081/vi_sport/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5e66c0a288843a094497513368abf4baT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/LSR5M6VxB0YDwv6803zrGFkq7vGQ3J.png",Любимое Кино
+http://50.7.180.50:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=6448733e366545fbc75448be7c5df5a8-1543749438-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/jUteUS0xRGdvLyBVqNjowEUDkOjT0t.png",HD Life
+http://50.7.180.50:8081/hdlife/index.m3u8?wmsAuthSign=e6bc875b769ba0ba3ba0378ded3ff723-1543749438-812i941i151i871
+#EXTINF:0 group-title="Мужские" tvg-logo="http://1ttv.org/uploads/tQTWwjNBC8aLLWiWZfCj43BhWNH51I.png",Трофей
+http://50.7.144.75:8081/trofey/index.m3u8?wmsAuthSign=b1f71badc41c80841326f6e6f58068d1-1543749438-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="http://1ttv.org/uploads/MwXfKGSDbPHr1K4mCWdq7LAM7ypTob.png",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/vui1cRrE05CZv1N9Qb20jJ6mTFOJue.png",Ani
+http://50.7.144.75:8081/ani/index.m3u8?wmsAuthSign=f4fd8c889de9dc20e2988e472b433e3e-1543749439-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/BPDFCK5SQF3mXu5MsDNSdtvz4Gjawo.png",JimJam
+http://50.7.180.50:8081/jimjam/index.m3u8?wmsAuthSign=a2e140b8377ca2d90a980721d84d28f1-1543749440-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/99AZ5VwFy9yZrgsdZ6kIxcoYqwSyUH.png",Lale
+http://50.7.144.75:8081/lale/index.m3u8?wmsAuthSign=ce7cdcea33ebd3d96bbcc48da193f2ec-1543749440-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/00Vf3rPABNnbNQ6Rv0dnfcg3JsJelA.png",Детский мир
+http://50.7.180.50:8081/detmir/index.m3u8?wmsAuthSign=5a085b67d49d9f245c28ce6b93465136-1543749440-812i941i151i871
+#EXTINF:0 group-title="Новостные" tvg-logo="http://1ttv.org/uploads/OTsoNZRT8xjXz5nnTICPCQRvNLjBal.png",Bloomberg
+http://50.7.180.50:8081/bloomberg/index.m3u8?wmsAuthSign=d1107cb26fa4026a1cc8adfe48529a6e-1543749440-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/SyisYhg411o7z9kXci4vfpLq4KBZZ4.png",Zoom
+http://50.7.180.50:8081/zoom/index.m3u8?wmsAuthSign=2e0a5f939f06f8ce045ca04d3789d31e-1543749440-812i941i151i871
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://1ttv.org/uploads/cGGo8HRkVhy66UXKXZ4tH5HyUaaxJA.png",Загородная жизнь
+http://50.7.144.75:8081/zagorod/index.m3u8?wmsAuthSign=835ea9f956a3c29b37e98e5e69a51799-1543749441-812i941i151i871
+#EXTINF:0 group-title="Новости" tvg-logo="http://1ttv.org/uploads/IeaOjwR6Q9eJjGZr0LYk2tpchM3ITZ.png",RTG
+http://50.7.144.75:8081/rtg/index.m3u8?wmsAuthSign=f9e7b1deace98a645cdc10d5104f99ba-1543749441-812i941i151i871
+#EXTINF:0 group-title="Региональные" tvg-logo="http://newrezume.org/_nw/195/86243262.png",9 канал Израиль
+http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=1ceb696abc5c1f87fc9331d854933ae6-1543749441-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="https://sat-one.info/news-imeg/45883.png",Дом кино Премиум
+http://50.7.180.50:8081/dom_prem/index.m3u8?wmsAuthSign=2d45607692fa6448b6334bc54bdf5ce4-1543749441-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="https://www.firstonetv.net/images/logos/ua/UAFIRST.png",UA Первый
+http://50.7.144.75:8081/per_nac/index.m3u8?wmsAuthSign=0001250c8b4388ec46ddbfd3dd1f92ca-1543749441-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/ofmgiZlRmwOZtTaYtUtfErZS3ODDDM.png",Dange TV
+http://50.7.180.50:8081/dange/index.m3u8?wmsAuthSign=4863868cfc5ed26a8b18b2b48e89abaa-1543749441-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="https://ntvplus.ru/files/image/01/17/74/v64.png",Теленовелла
+http://50.7.144.75:8081/telenovella/index.m3u8?wmsAuthSign=878f152bb802c680b45a43c5e709213d-1543749442-812i941i151i871
+#EXTINF:0 group-title="Фильмы" tvg-logo="http://1ttv.org/uploads/T7amR78JUYW3EgFZp14hQdh7pjzWLJ.png",НТВ Сериал
+http://50.7.144.75:8081/ntv_serial/index.m3u8?wmsAuthSign=e2e66afcff56a3cd8d611a57c84edbab-1543749442-812i941i151i871
+#EXTINF:0 group-title="Общие" tvg-logo="",НТВ‑ХИТ
+http://50.7.144.75:8081/ntv_xit/index.m3u8?wmsAuthSign=7ed71a2dfe8bab67e2531016b1df1e3b-1543749442-812i941i151i871
+#EXTINF:0 group-title="Детские" tvg-logo="http://1ttv.org/uploads/1ICTdkjwuSXO55ZaBKZt8OLq2OqNwZ.png",Малыш ТВ
+http://50.7.144.75:8081/malysh/index.m3u8?wmsAuthSign=ada6e67005a380875f56420bd9cd32f2-1543749442-812i941i151i871
+#EXTINF:0 group-title="Музыка" tvg-logo="http://1ttv.org/uploads/fD2Hnsq5BPMGvobLDMPZP049yNhBYt.png",Музыка Первого
+http://50.7.144.75:8081/muzyka_pervogo/index.m3u8?wmsAuthSign=66b197d697142333a73e7bd92affa923-1543749442-812i941i151i871
+#EXTINF:0 group-title="Развлекательные" tvg-logo="http://1ttv.org/uploads/DbKEKL5gUOFHiruYRjY2H9gTLOV5mu.png",Жара ТВ
+http://50.7.144.75:8081/zhara/index.m3u8?wmsAuthSign=c80e1f0a3f09c1ee58130468f1a88704-1543749443-812i941i151i871
+
